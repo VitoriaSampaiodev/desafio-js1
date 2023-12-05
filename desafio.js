@@ -1,7 +1,7 @@
 console.log("Ano novo está chegando!!");
 
 let nomeCantora = "Mariah Carey"
-let idadeCantora = 52;
+let idadeCantora = 54;
 
 let anoAtual = 2023;
 let anoNascimentoCantora = anoAtual - idadeCantora;
