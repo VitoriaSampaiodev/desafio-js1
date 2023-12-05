@@ -26,3 +26,4 @@ if (mesAniversario === "Agosto" || mesAniversario === "Dezembro" || mesAniversar
     console.log("Algo de errado não está certo. O mês digitado foi o mês de", mesAniversario);
 
 }
+
